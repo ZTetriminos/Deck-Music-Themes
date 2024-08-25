@@ -1,0 +1,10 @@
+{
+  "name": "Seaside In The Twilight",
+  "description": "Some chill jazz from Air Suspension Club Band, 1982, all rights reserved. Featured in Forgotten_VCR's Twitch stream.",
+  "author": "ZTetriminos",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
